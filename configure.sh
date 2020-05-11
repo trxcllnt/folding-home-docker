@@ -15,7 +15,7 @@ select_option() {
     echo "$SELECTION"
 }
 
-echo "NVIDIA's team ID is 58812"
+echo "NVIDIA's team ID is 259918"
 echo "Find a full list of teams at https://stats.foldingathome.org/teams"
 echo ""
 
